@@ -1,0 +1,16 @@
+{
+  "name": "Tetris Zen",
+  "short_name": "Tetris",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/000000/FFFFFF?text=T",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
